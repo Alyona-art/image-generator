@@ -10,6 +10,12 @@ The app has two screens:
 
 You can generate multiple images, retry on errors, and navigate back while keeping your original prompt.
 
+## Demo
+
+https://github.com/user-attachments/assets/f1c71585-2e67-4812-8c60-3c67ed4da412
+
+
+
 ## Architecture
 
 The code is organized into **features** (prompt, result) and **core** (shared stuff like routing and repositories). Each feature has its own state management (BLoC) and UI components.
